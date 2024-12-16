@@ -1,0 +1,7 @@
+[package]
+name = "zapis"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+block-utils = "0.11.1"
